@@ -140,14 +140,10 @@ display:inline-block;
 	
 			<div id="main">
 				<div id="main2"></div>
-				<h2> Mr Parkash Rai</h2>
-				    <!--img id="image2" src="C:\Users\Parkash Rai\Desktop\r.jpg" align="left"-->
+				<h2> Mr Amey Gawde</h2>
+				    
 
-			    <p> I have done B.E in CSE from Mehran University of Engineering
-and Technology,Jamshoro.I am a web developer with 3 years
-of self-project experiences.I have also worked on different
-programming languages such as,HTML,CSS,JavaScript, PHP ,
-MYSQL ,PYTHON ,JAVA and WordPress.
+			    <p> Hey I am in last year of engineering.I am persuing my engineering from G.V Acharya College of Institute and Technology.I have been working of different programming languagues such as HTML,CSS JavaScript,Python,MySQL,JAVA,PHP and WORDPRESS.
 			
 			<br>Looking for an
 organization which provides me the opportunity to improve
