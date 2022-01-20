@@ -30,7 +30,7 @@ background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);
       <body>
       
       <nav  class="navbar navbar-expand-md navbar-light bg-light">
-      <a class="navbar-brand" href="index.php"><img src="img/logo.png"></a>
+      <a class="navbar-brand" href="index.php"><img src="img/logo.PNG"></a>
       
       <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="navbar-nav ml-auto">
